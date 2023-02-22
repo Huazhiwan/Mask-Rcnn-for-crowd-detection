@@ -3,7 +3,7 @@
 建議python 使用 3.6版本  
 此為學生時期寫出的程式，因此可能有許多漏洞及優化問題
 ### step1:
-此程式為基於Mask-Rcnn運作，因此建議先透過 <https://github.com/matterport/Mask_RCNN>，將Mask-Rcnn安裝完成，或
+此程式為基於Mask-Rcnn運作，因此建議先透過 <https://github.com/matterport/Mask_RCNN>(必須下載權重)，將Mask-Rcnn安裝完成，或
 使用requirements.txt 安裝所需套件。套件安裝完成後，執行setup.py。  
 ### step2:
 上述設定完成後，即可執行people_detection.py進行人物辨識  
