@@ -1,5 +1,5 @@
 # Mask-Rcnn-for-crowd-detection
-# People counting、People detection、Simple virtual fence application
+### People counting、People detection、Simple virtual fence application
 建議python 使用 3.6版本  
 此為學生時期寫出的程式，因此可能有許多漏洞及優化問題
 ### step1:
